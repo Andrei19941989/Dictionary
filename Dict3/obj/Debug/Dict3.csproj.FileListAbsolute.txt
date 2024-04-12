@@ -1,0 +1,6 @@
+/Users/andrejsytenkov/RiderProjects/Dict3/Dict3/bin/Debug/Dict3.exe
+/Users/andrejsytenkov/RiderProjects/Dict3/Dict3/bin/Debug/Dict3.pdb
+/Users/andrejsytenkov/RiderProjects/Dict3/Dict3/obj/Debug/Dict3.csproj.AssemblyReference.cache
+/Users/andrejsytenkov/RiderProjects/Dict3/Dict3/obj/Debug/Dict3.csproj.CoreCompileInputs.cache
+/Users/andrejsytenkov/RiderProjects/Dict3/Dict3/obj/Debug/Dict3.exe
+/Users/andrejsytenkov/RiderProjects/Dict3/Dict3/obj/Debug/Dict3.pdb
